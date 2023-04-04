@@ -23,5 +23,5 @@
   ],
   "include": [
     "**/*.ts"
-  ]
+, "src/middleware/jwt.ts", "src/middleware/jwt.ts"  ]
 }
